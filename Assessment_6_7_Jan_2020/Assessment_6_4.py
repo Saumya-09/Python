@@ -1,1 +1,0 @@
-f=open("mydata.txt", w+)
